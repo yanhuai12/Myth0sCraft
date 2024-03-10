@@ -1,0 +1,1 @@
+Description: CloudSecure is a robust cloud storage security solution that encrypts and protects sensitive data across multiple cloud services. With advanced threat detection and real-time alerts, CloudSecure ensures that your data remains safe and private.
